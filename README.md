@@ -24,7 +24,7 @@ This is a sample web application displays the latest NFT listings in a grid form
 
 1. Install dependencies: `npm install`
 2. Start the development server: `npm run dev`
-3. Open the app in your browser at [http://localhost:3000](http://localhost:3000)
+3. Open the app in your browser at [http://127.0.0.1:5173](http://127.0.0.1:5173)
 
 ## Deployment
 
